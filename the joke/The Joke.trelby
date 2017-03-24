@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:75
-Cursor/Column:0
+Cursor/Line:82
+Cursor/Column:8
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -169,24 +169,25 @@ Locations:0
 Words:0
 #End-Spell-Checker-Dict 
 #Title-String 0.000000,105.000000,24,cb,Helvetica,,The Joke
-#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nFelipe T
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nFelipe Tonon
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
 .\INT. APARTMENT'S ENTRY HALL - NIGHT
-..Dude opens the door and walks into the apartment. 
+..Dude opens the door and walks into his own apartment. 
 ._DUDE (V.O.)
 .:Ah, fucking finally!
 >.He takes his black leather shoes off, kick them away and
-..hangs his jacket.
+..hangs his jacket on a coat hanger.
 .\INT. BATHROOM
 ._DUDE (V.O.)(CONT'D)
 >:They said 'Go to Zürich! You gonna
 .:make sooo much money!'
-..Dude takes his contacts off.
+>.Dude takes his contacts off in front of the mirror and looks
+..at himself while trying to pronounce Swiss-German words.
 ._DUDE
-.((speaking to the mirror)
->:Gruetzi! Grootze! Greeetza!
+.:Gruetzi! Grootze! Greeetza!
+._DUDE (V.O.)
 .:Pathetic!
 .\INT. KITCHEN
 ..He opens the fridge and grabs some beer
@@ -195,7 +196,7 @@ Words:0
 .\INT. LIVING ROOM
 >.He's now wearing glasses. He sits on the couch holding a
 >.beer and a bowl of salty snacks. He reaches for the bowl
->.when a blue spirit-like entity comes out of his body and
+>.when a blue ghost-like entity comes out of his body and
 ..materializes itself as a person siting right next to him.
 ._CONSCIENCE
 >:I know the solution for your little
@@ -218,18 +219,19 @@ Words:0
 ._CONSCIENCE
 >:Just come up with a joke! One
 >:really good joke and people will
->:finally stop to listen what you
+>:finally stop and listen to what you
 .:have to say
 ..Dude nods in agreement.
+._DUDE
+.:Actually...
 ._DUDE (V.O.)
->:Actually this might not be the
-.:worst idea
+.:This might not be the worst idea
 ._CONSCIENCE
 >:There you go! Now go on! Turn off
 >:this shitty show and focus! Gimme
-.:those juicy leg opening lines
+.:some juicy leg opening lines
 >.Dude turns off the TV and looks up, in silence, getting lost
-..in thoughts. There's an awkward moment of silence.
+..in thoughts. There's a moment of silence.
 ._CONSCIENCE
 .:So... ?
 ._DUDE
@@ -248,8 +250,9 @@ Words:0
 .:Think!
 ..Dude gets up angry and walks away from the couch.
 ./CUT TO:
->.We se a montage of Dude trying to do things while Conscience
-..is constantly speaking on his ear, demanding a joke.
+>.We see a montage of Dude trying to do daily routine things
+>.inside his apartment while Conscience is constantly speaking
+..on his ear, demanding a joke.
 .\INT. KITCHEN
 ._DUDE
 .:Shut up!
@@ -265,14 +268,14 @@ Words:0
 .:Ahhhh!
 >.Dude holds the knife against his own chest and throws
 >.himself against the wall. His body bounces after the impact
->.and falls dead on the floor. The knife is visible stuck to
+>.and falls dead on the floor. The knife is visibly stuck to
 ..his heart.
 ..His soul comes out of his body and looks at Conscience
 ._Soul
 .((angry)
-.:Are you laughing now?!
+.:Douchebag! Are you laughing now?!
 ._CONSCIENCE
 .((uninterested)
->:Meh... What about a fart joke
-.:instead?
+>:Meh... I am more of a fart joke
+.:kind of guy
 ..THE END
