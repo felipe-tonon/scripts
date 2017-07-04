@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:8
-Cursor/Column:0
+Cursor/Line:15
+Cursor/Column:8
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -186,7 +186,7 @@ Words:0
 ..and less people out on the streets.
 ..Tired, she turns into a park.
 .\EXT. PARK - NIGHT
->. and cuts through a poorly lit area amongst the trees. While
+>.She cuts through a poorly lit area amongst the trees. While
 >.walking on a fast pace she pulls her phone and looks down
 ..briefly.
 >.A tall man with a homeless-like look suddenly appears in
