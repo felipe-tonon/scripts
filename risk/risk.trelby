@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:11
-Cursor/Column:42
+Cursor/Line:8
+Cursor/Column:0
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -168,23 +168,119 @@ Locations:0
 #Begin-Spell-Checker-Dict 
 Words:0
 #End-Spell-Checker-Dict 
-#Title-String 0.000000,105.000000,24,cb,Helvetica,,UNTITLED SCREENPLAY
-#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nMy Name Here
-#Title-String 15.000000,248.460000,12,,Courier,,123/456-7890\nno.such@thing.com
+#Title-String 0.000000,105.000000,24,cb,Helvetica,,RISK
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nTony\nFelipe
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
-.\NIGHT - EXT.
+.\EXT. STREET - NIGHT
 >.A young woman is running on the sidewalk. She looks at her
->.watch, stops, takes off her shoes and resumes running while
-..now holding her heels in one hand.
+>.watch, stops, takes off her shoes and resumes running while 
+..holding her heels in one hand.
 >.She arrives at the bus stop moments after the bus she's
 >.chasing after has departed. Hopeless she sits down at the
 ..bench to catch her breath.
->.She breathes deeply, as if to give himself some courage,
->.stands up and starts walking. We see her walking for what it
->.seems to be a long time. With each step we see less and less
-..people out on the streets.
-..Tired, she turns into a deserted park surr
-..
-..
+>.She breathes deeply, as if to give herself some courage. She
+>.then stands up and starts walking. We see her walking for
+>.what it seems to be a long time. With each step we see less
+..and less people out on the streets.
+..Tired, she turns into a park.
+.\EXT. PARK - NIGHT
+>. and cuts through a poorly lit area amongst the trees. While
+>.walking on a fast pace she pulls her phone and looks down
+..briefly.
+>.A tall man with a homeless-like look suddenly appears in
+..front of her.
+._Homeless Man
+.:Hey there!
+..The woman looks up from her phone startled.
+._HOMELESS MAN
+.:You lost?
+._WOMAN 
+.((turning to walk away)
+.:Sorry, I'm in a hurry to...
+>.The man grabs her strongly by the arm as she tries to turn
+..away.
+._HOMELESS MAN
+.((Angry)
+.:Phone, wallet! Now!
+..She tries to gather her thoughts and think of what to do.
+._WOMAN 
+.((Panicking)
+.:Here!
+..She extends her free arm and holds up her purse.
+._WOMAN 
+.((Nervous)
+.:Take it! Let me go!
+>.The man suddenly looks her up and down realising how
+..attractive she is.
+._HOMELESS MAN
+>:Oh, but we can have more fun than
+.:that!
+._WOMAN 
+.((Starting to scream)
+.:No! No! Let me go!
+._HOMELESS MAN
+.:Shut the fuck up, bitch!
+..The man punches her in the face knocking her out.
+./FADE TO BLACK
+.\EXT. PARK - NIGHT
+._HOMELESS MAN
+.((Angry)
+.:Phone, wallet! Now!
+..She tries to gather her thoughts and think of what to do.
+._WOMAN 
+>:You know what? I don't have any
+>:cash on me, but if you could come
+>:with me to the ATM I would be happy
+.:to...
+>.Seeing the man distracted, in a split of second the woman
+>.moves her arm in a strong downwards jerk, freeing herself
+..from the man's grip. 
+>.Before he's able to react she starts running towards a
+..densely forested area.
+._HOMELESS MAN
+.:You little cunt!
+..The man runs after her.
+>.The woman keeps going as fast as she can without being aware
+>.of which direction she is running to. She tries to look back
+..over her shoulder but sees no sign of the man.
+>.Very scared, she runs for a while until she finally spot the
+>.street lights amongst the trees. She runs towards the road
+>.until she finally steps out of the woods and into the
+..pavement.
+._HOMELESS MAN
+.:Got ya!
+>.The man comes out of nowhere and kicks the woman's feet as
+>.she tries to walk out of the park. She falls face first on
+>.the road hitting her head and spreading the contents of her
+..purse around the pavement. She's passed out
+./FADE TO BLACK
+.\EXT. PARK - NIGHT
+._HOMELESS MAN
+.((Angry)
+.:Phone, wallet! Now!
+..She tries to gather her thoughts and think of what to do.
+._WOMAN 
+.:Let my arm go now! Or else...
+._HOMELESS MAN
+.:Or else what?
+._WOMAN 
+.:Someone will get hurt!
+._HOMELESS MAN
+.((laughing)
+>:You're a funny little bird, aren't
+.:you?
+._WOMAN 
+.:5 seconds!
+._HOMELESS MAN
+>:You dirty whore! I'm gonna have a
+.:lot fun ripping off your...
+>.The woman kicks him in the testicles and as he bends down in
+>.pain, she punches him in the face with enough strengh to
+..knock him down to the floor. 
+>.As the man lies on the ground agonizing in pain with blood
+>.in his mouth, the woman calmly adjusts her shirt back in
+>.place, puts her heels back on and walks out of the woods
+..into the city streets
+.@THE END
