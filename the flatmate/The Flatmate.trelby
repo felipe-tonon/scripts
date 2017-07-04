@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:347
-Cursor/Column:0
+Cursor/Line:349
+Cursor/Column:1
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -519,9 +519,10 @@ Words:0
 .((without looking back)
 .:Door!
 ..Phil walks away leaving the door open instead.
-.\INT. CORPO-----------0ujk
-..
-..NT. SAME APARTMENT's HALLWAY - DAY
+.\INT. CORP
+..Dsadasdasda dsadsa
+..Dadassdsa
+.\INT. SAME APARTMENT's HALLWAY - DAY
 >.A middle aged female real estate agent walks slowly out of
 >.the living room moving towards the apartment's front door as
 >.she is followed by Adam. She has a friendly German accent
