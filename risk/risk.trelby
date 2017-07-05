@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:11
-Cursor/Column:29
+Cursor/Line:101
+Cursor/Column:32
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -227,6 +227,8 @@ Words:0
 ..The man punches her in the face knocking her out.
 ./FADE TO BLACK
 .\EXT. PARK - NIGHT
+>.The homeless man grabs the woman strongly by the arm as she
+..tries to turn away.
 ._HOMELESS MAN
 .((Angry)
 .:Phone, wallet! Now!
@@ -259,13 +261,16 @@ Words:0
 ..purse around the pavement. She's passed out
 ./FADE TO BLACK
 .\EXT. PARK - NIGHT
+>.The homeless man grabs the woman strongly by the arm as she
+..tries to turn away.
 ._HOMELESS MAN
 .((Angry)
 .:Phone, wallet! Now!
->.She tries to gather her thoughts and think of what to do.
-..Calm and cold, she looks the man in the eyes.
+..She tries to gather her thoughts and think of what to do.
+>.She breathes deeply and calms herself down. Now with a cold
+..piercing look she stares the man in the eyes.
 ._WOMAN 
-.:Let me go!
+.:What are you doing?
 ._HOMELESS MAN
 .:Gimme your money, bitch!
 ._WOMAN 
@@ -278,8 +283,8 @@ Words:0
 ._WOMAN 
 .:Five seconds before you're in pain!
 ._HOMELESS MAN
->:Shut up, cunt! Or I'm gonna rip you
-.:apart and fuck your...
+>:What?! Shut up, cunt! Or I'm gonna
+.:rip you apart and fuck your...
 >.The woman kicks him in the testicles and as he bends down in
 >.pain, she punches him in the face with enough strengh to
 ..knock him down to the floor. 
