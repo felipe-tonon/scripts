@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:15
-Cursor/Column:8
+Cursor/Line:95
+Cursor/Column:6
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -254,7 +254,7 @@ Words:0
 >.The man comes out of nowhere and kicks the woman's feet as
 >.she tries to walk out of the park. She falls face first on
 >.the road hitting her head and spreading the contents of her
-..purse around the pavement. She's passed out
+..purse around the pavement. She's passed out.
 ./FADE TO BLACK
 .\EXT. PARK - NIGHT
 ._HOMELESS MAN
@@ -262,7 +262,12 @@ Words:0
 .:Phone, wallet! Now!
 ..She tries to gather her thoughts and think of what to do.
 ._WOMAN 
-.:Let my arm go now! Or else...
+.:What are you doing?
+._HOMELESS MAN
+>:Shut the fuck up and hand me your
+.:purse!
+._WOMAN 
+.:Let my arm go now!
 ._HOMELESS MAN
 .:Or else what?
 ._WOMAN 
@@ -282,5 +287,5 @@ Words:0
 >.As the man lies on the ground agonizing in pain with blood
 >.in his mouth, the woman calmly adjusts her shirt back in
 >.place, puts her heels back on and walks out of the woods
-..into the city streets
+..into the city streets.
 .@THE END
