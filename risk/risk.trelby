@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:166
-Cursor/Column:17
+Cursor/Line:168
+Cursor/Column:35
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -208,9 +208,8 @@ Words:0
 >.A tall man with a homeless-like look suddenly appears out of
 >.the dark in front of her. She bumps into him dropping her
 ..phone on the mud.
+..The man bends down to pick up the phone.
 ._Homeless Man
->((bending down to pick up
-.(the phone)
 .:Woah woah! In a hurry, are we?
 >.The woman watches him scared while he pulls a piece of cloth
 >.out of his pocket, cleans the phone's screen and hands it to
@@ -254,12 +253,12 @@ Words:0
 .:Here!
 ..She extends her free arm and holds up her purse.
 ._WOMAN 
-.:Take it and Let me go!
+.:Take it and let me go!
 >.The man suddenly looks her up and down realising she's even
 ..more attractive than he first thought.
 ._HOMELESS MAN
 >:Nah, I kinda feel like having
-.:something else.
+.:something else too.
 ..The woman shakes her purse in front of him.
 ._WOMAN 
 .:But this is all I have.
@@ -269,7 +268,7 @@ Words:0
 ._WOMAN 
 .((Starting to scream)
 .:No! No! Let me go!
-..Her screams make him angry.
+..Her screaming makes him aggressively angry.
 ._HOMELESS MAN
 .:Shut the fuck up!
 ..The man punches her in the face knocking her out.
@@ -321,9 +320,8 @@ Words:0
 >:I don't think that's such a good
 .:idea.
 ._HOMELESS MAN
->:What?! You're gonna hand me the
->:purse before someone gets hurt
-.:really bad!
+>:What?! You better hand me the purse
+.:before someone gets hurt real bad!
 ._WOMAN 
 .:And it is not going to be me.
 >.The man laughes. He's intriged and turned on by her
