@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:76
-Cursor/Column:1
+Cursor/Line:104
+Cursor/Column:24
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -278,4 +278,4 @@ Words:0
 >:Meh... I am more of a fart joke
 .:kind of guy
 ..Soul face palms himself.
-..THE END
+.@THE END
