@@ -39,8 +39,13 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
+<<<<<<< Updated upstream
 Cursor/Line:101
 Cursor/Column:32
+=======
+Cursor/Line:18
+Cursor/Column:20
+>>>>>>> Stashed changes
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -184,54 +189,101 @@ Words:0
 >.then stands up and starts walking. We see her walking for
 >.what it seems to be a long time. With each step we see less
 ..and less people out on the streets.
-..Tired, she turns into a park.
+>.Her phone rings inside her purse, she pulls it out and holds
+..it next to her ear.
+._WOMAN 
+.((in Spanish)
+>:Hi mom! Yes, sorry. I got caught up
+>:at work and missed the last bus.
+.:Did you put her in bed already?
+..The woman waits to hear the person on the other line.
+._WOMAN 
+.((in Spanish)
+>:I know. Yes. Ok. I wish I was there
+.:to tuck her in too.
+..While still on the phone she turns into a park.
 .\EXT. PARK - NIGHT
 >.She cuts through a poorly lit area amongst the trees. While
->.walking on a fast pace she pulls her phone and looks down
-..briefly.
->.A tall man with a homeless-like look suddenly appears in
-..front of her.
-._Homeless Man
-.:Hey there!
-..The woman looks up from her phone startled.
-._HOMELESS MAN
-.:You lost?
+..walking on a fast pace she continues to speak on the phone.
 ._WOMAN 
-.((turning to walk away)
-.:Sorry, I'm in a hurry to...
+.((in Spanish)
+>:I'm crossing the park now so I'll
+>:be home soon. I know you don't like
+.:it but...
+>.A tall man with a homeless-like look suddenly appears out of
+>.the dark in front of her. She bumps into him dropping her
+..phone on the mud.
+._Homeless Man
+>((bending down to pick up
+.(the phone)
+.:Woah woah! In a hurry, are we?
+>.The woman watches him scared while he pulls a piece of cloth
+>.out of his pocket, cleans the phone's screen and hands it to
+..her with a friendly smile.
+..Seeing his expression makes her relax.
+._WOMAN 
+.:Thank you!
+>.She tries to grab the phone out of his hand but he doesn't
+..let go.
+._HOMELESS MAN
+>:That would be twenty francs
+.:[euros/dollars?].
+>.He lets the phone go, so the woman takes it and quickly
+..throws it back inside her purse.
+._WOMAN 
+>:I am sorry, but I don't have any
+.:money on me.
+._HOMELESS MAN
+.:Come on, you must have something.
+._WOMAN 
+.:I don't, sorry
+>.She gives up on the conversation and starts turning to walk
+..away.
+._WOMAN 
+>:I really need to get going, so have
+.:a good...
 >.The man grabs her strongly by the arm as she tries to turn
 ..away.
 ._HOMELESS MAN
-.((Angry)
-.:Phone, wallet! Now!
+>:Wait wait. Don't turn your back on
+.:me.
+..The woman is paralized by fear.
+._HOMELESS MAN
+>:Why don't I check inside this fancy
+.:purse myself?
+..He nods at the purse she holds.
 ..She tries to gather her thoughts and think of what to do.
 ._WOMAN 
 .((Panicking)
 .:Here!
 ..She extends her free arm and holds up her purse.
 ._WOMAN 
-.((Nervous)
-.:Take it! Take it and let me go!
->.The man suddenly looks her up and down realising how
-..attractive she is.
+.:Take it and Let me go!
+>.The man suddenly looks her up and down realising she's even
+..more attractive than he first thought.
 ._HOMELESS MAN
->:Nah, you're not going before you
-.:suck my cock.
->.The woman starts moving her arm frantically trying to free
-..herself.
+>:Nah, I kinda feel like having
+.:something else.
+..The woman shakes her purse in front of him.
+._WOMAN 
+.:But this is all I have.
+..The man touches her boob.
+._HOMELESS MAN
+.:That's what I mean!
 ._WOMAN 
 .((Starting to scream)
 .:No! No! Let me go!
+..Her screams make him angry.
 ._HOMELESS MAN
-.:Shut the fuck up, bitch!
+.:Shut the fuck up!
 ..The man punches her in the face knocking her out.
 ./FADE TO BLACK
 .\EXT. PARK - NIGHT
->.The homeless man grabs the woman strongly by the arm as she
-..tries to turn away.
+..The woman is paralized by fear.
 ._HOMELESS MAN
-.((Angry)
-.:Phone, wallet! Now!
+>:Why don't I check inside this purse
+.:myself?
+..He nods at the purse she holds.
 ..She tries to gather her thoughts and think of what to do.
 ._WOMAN 
 >:You know what? I don't have any
@@ -261,8 +313,12 @@ Words:0
 ..purse around the pavement. She's passed out
 ./FADE TO BLACK
 .\EXT. PARK - NIGHT
->.The homeless man grabs the woman strongly by the arm as she
-..tries to turn away.
+..The woman is paralized by fear.
+._HOMELESS MAN
+>:Why don't I check inside this purse
+.:myself?
+..He nods at the purse she holds.
+..She tries to gather her thoughts and think of what to do.
 ._HOMELESS MAN
 .((Angry)
 .:Phone, wallet! Now!
