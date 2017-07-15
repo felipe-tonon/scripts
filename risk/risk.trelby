@@ -39,13 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-<<<<<<< Updated upstream
-Cursor/Line:101
-Cursor/Column:32
-=======
-Cursor/Line:18
-Cursor/Column:20
->>>>>>> Stashed changes
+Cursor/Line:166
+Cursor/Column:17
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -226,6 +221,7 @@ Words:0
 >.She tries to grab the phone out of his hand but he doesn't
 ..let go.
 ._HOMELESS MAN
+.((with a smile)
 >:That would be twenty francs
 .:[euros/dollars?].
 >.He lets the phone go, so the woman takes it and quickly
@@ -319,28 +315,31 @@ Words:0
 .:myself?
 ..He nods at the purse she holds.
 ..She tries to gather her thoughts and think of what to do.
-._HOMELESS MAN
-.((Angry)
-.:Phone, wallet! Now!
-..She tries to gather her thoughts and think of what to do.
 >.She breathes deeply and calms herself down. Now with a cold
 ..piercing look she stares the man in the eyes.
 ._WOMAN 
-.:What are you doing?
+>:I don't think that's such a good
+.:idea.
 ._HOMELESS MAN
-.:Gimme your money, bitch!
+>:What?! You're gonna hand me the
+>:purse before someone gets hurt
+.:really bad!
 ._WOMAN 
->:It will be safer for you to just
-.:let me go.
+.:And it is not going to be me.
+>.The man laughes. He's intriged and turned on by her
+..defiance.
 ._HOMELESS MAN
-.((laughing)
 >:You're a funny little bird, aren't
 .:you?
 ._WOMAN 
-.:Five seconds before you're in pain!
+>:Okay, that's enough. You will let
+.:me go now! 
 ._HOMELESS MAN
->:What?! Shut up, cunt! Or I'm gonna
-.:rip you apart and fuck your...
+>:What?! Ya know what? Now I'm gonna
+.:take your money...
+..He raises his free hand to touch her breast.
+._HOMELESS MAN (CONT'D)
+.:... And your p...
 >.The woman kicks him in the testicles and as he bends down in
 >.pain, she punches him in the face with enough strengh to
 ..knock him down to the floor. 
