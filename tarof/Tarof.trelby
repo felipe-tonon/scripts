@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:182
-Cursor/Column:13
+Cursor/Line:16
+Cursor/Column:5
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -169,213 +169,219 @@ Locations:0
 Words:0
 #End-Spell-Checker-Dict 
 #Title-String 0.000000,105.000000,24,cb,Helvetica,,TAROF
-#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nFelipe Tonon
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nLuis Tonon
 #Title-String 15.000000,248.460000,12,,Courier,,
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
 .\INT - LONDON - NIGHT CLUB
->.2 young female friends at a nightclub. Aslim - Turkish,
->.short, slim, artsy - and Shima - beautiful Arabic look, long
-..legs, casual outfit. Shima is elegant and shy.
+>.Two young female friends at a nightclub. Aslim - Turkish,
+>.short, slim, artsy - and Shirin - beautiful Arabic look,
+..long legs, casual outfit. Shirin is elegant and shy.
+..They are walking across the club. The music is loud.
+._SHIRIN
+.:Hey Aslim, wanna go for a smoke?
 ._ASLIM
-.:Let's go for a smoke
-._SHIMA
 .:What?
+._SHIRIN
+.((gesturing a cigarette)
+.:Smoke!
 ._ASLIM
-.:Let's go for a smoke!
-..They both walk out of the door to the smoking area.
+.:Yeah! Let's go
+>.Aslim takes Shirin by the hand and they both walk out of the
+>.dancing area through a door leading to the outside smoking
+..area.
 .\EXT - NIGHT CLUB'S SMOKING AREA
->.Two young guys - Felipe and Marcelo - already smoking nearby
+>.Two young guys - Luis and Marcelo - already smoking nearby
 >.see them approaching. Speaking something in Portuguese, one
 >.guy encourages the other to go talk to the girls. He resists
 >.and the friend encourages him again. He gives in and walks
 ..towards the girls.
-._FELIPE
+._LUIS
 >:Hey, I was talking to my friend
 >:over there about this and I wanted
 >:your opinion. Who do you think lies
 .:the most? Man or women?
 .\INT - ZURICH - LIVING ROOM
->.Shima is in front of the TV, sitting on the couch under a
+>.Shirin is in front of the TV, sitting on the couch under a
 >.blanket. She has her feet up on the couch and rubs her own
->.legs to try to warm herself up. Felipe comes into scene
+>.legs to try to warm herself up. Luis comes into scene
 ..holding two glasses of red wine.
-._FELIPE
+._LUIS
 >:Babes, do you remember what I first
 .:said to you?
->.Shima tries to think about it while Felipe sits down on the
+>.Shirin tries to think about it while Luis sits down on the
 ..couch, under the blanket next to her.
-._SHIMA
+._SHIRIN
 .:No, I don't think so...
 >.He gives one of the glasses to her and wraps an arm around
 ..her shoulder.
-._FELIPE
+._LUIS
 .:It was a line from a book I read
-._SHIMA
+._SHIRIN
 .:A book?
-._FELIPE
+._LUIS
 .:Yeah, about picking up women
-._SHIMA
+._SHIRIN
 >:So you used that line on other
 .:girls too?
-..Felipe smiles embarrassed.
-._FELIPE
+..Luis smiles embarrassed.
+._LUIS
 .:Maybe?
->.Shima sits up straight, puts down the wine glass on the
->.coffee table, raises her free hand and pinches Felipe's
+>.Shirin sits up straight, puts down the wine glass on the
+>.coffee table, raises her free hand and pinches Luis's
 ..nipple.
-._SHIMA
+._SHIRIN
 .:O really?! How many?!
 >.In a small pain but laughing, he puts down the wine glass.
-..Shima still holds his nipple between her fingers.
-._FELIPE
+..Shirin still holds his nipple between her fingers.
+._LUIS
 .:Maybe zero. Maybe one thousand.
-._SHIMA
+._SHIRIN
 .((jokingly angry)
 .:One thousand?!
 ..She squeezes his nipple harder.
-._FELIPE
+._LUIS
 .:Oh yeah? That's how you wanna play?
->.Felipe holds Shima's hands, stands up from the couch, and
+>.Luis holds Shirin's hands, stands up from the couch, and
 >.while still holding her hands he gently comes on top of her
 ..crossing her arms over her breasts.
-._SHIMA
+._SHIRIN
 .:Hey that's not fair.
-._FELIPE
+._LUIS
 .:Not fair? How about this.
 >.With his fingers he tickles the back of her arms making her
 ..laugh uncontrollably.
 .\INT - NIGHTCLUB - CONT PREVIOUS NIGHT
->.Felipe dances with Shima while Marcelo dances with Aslim.
-..Shima leans towards Felipe's ear.
-._SHIMA
+>.Luis dances with Shirin while Marcelo dances with Aslim.
+..Shirin leans towards Luis's ear.
+._SHIRIN
 .:Where are you from?
-._FELIPE
+._LUIS
 .:Would you like to guess?
-._SHIMA
+._SHIRIN
 .:Poli...
-._FELIPE
+._LUIS
 .((interrupting)
 .:Brazilian!
-..Shima doesn't believe him
-._SHIMA
+..Shirin doesn't believe him
+._SHIRIN
 .:Say something in your language.
-._FELIPE
+._LUIS
 .:Why? Do you speak Portuguese?
-._SHIMA
+._SHIRIN
 >:No, but I have Brazilian friends
 .:and I'll know if it's real
-._FELIPE
+._LUIS
 .((sarcastically)
 .:Do you want to see my passport too?
-._SHIMA
+._SHIRIN
 .((smiling)
 .:Yes, thank you.
->.Felipe reaches his back pocket and pulls out an Italian
+>.Luis reaches his back pocket and pulls out an Italian
 >.passport. He opens it on the first page and points to where
 ..it says "Place of Birth: Brazil"
-._FELIPE
+._LUIS
 .:See?
-._SHIMA
+._SHIRIN
 >:But how come you have an Italian
 .:passport?
-._FELIPE
+._LUIS
 .:It's a long story
 .\EXT. ZURICH - STADELHOFFEN PARK - LATE MORNING
->.It's winter, Felipe and Shima spot each other across the
+>.It's winter, Luis and Shirin spot each other across the
 >.park. They walk towards each other and exchange a kiss and a
 ..warm hug.
-._SHIMA
+._SHIRIN
 >:Thanks for meeting me for breakfast
 .:baby.
 ..They hold hands and start walking together across the park.
-._FELIPE
+._LUIS
 .:Thanks for awesome company.
 ..He looks at what she's wearing
-._FELIPE
+._LUIS
 .:Rächte Schuss! Nice outfit
-._SHIMA
+._SHIRIN
 >:Rächte Schuss? Right shot? That
 .:doesn't make any sense.
->.They continue walking towards the lake. Felipe puts his
-..hands on his jacket's pockets while Shima hugs his arm.
-._FELIPE
+>.They continue walking towards the lake. Luis puts his hands
+..on his jacket's pockets while Shirin hugs his arm.
+._LUIS
 >:My colleague says it's like "gata"
 .:in Portuguese. That means hottie.
-._SHIMA
+._SHIRIN
 >:Yeah, I know. So another nice term
 .:to use referring to women, huh?
-..Felipe smiles.
-._FELIPE
+..Luis smiles.
+._LUIS
 >:Exactly! Look at us! Propagating
 .:sexism.
 ..They enter a café
 .\INT - CAFE - CONT.
-._SHIMA
+._SHIRIN
 >:Are you trying to learn Swiss
 .:German?
-._FELIPE
+._LUIS
 .:Nah, just some funny words.
-._SHIMA
+._SHIRIN
 .:Not sure those are worth it.
 ..They sit at a table
-._FELIPE
+._LUIS
 >:Oh right, I forgot that you kids
 >:from Lausanne don't like Swiss
 .:German
-._SHIMA
+._SHIRIN
 >:No, it's not that. It's just that
 >:normal Deutsch is already hard
 .:enough.
->.Felipe is about to reply but a waitress approaches the
-..table. Shima turns to the waitress to order
-._SHIMA
+>.Luis is about to reply but a waitress approaches the table.
+..Shirin turns to the waitress to order
+._SHIRIN
 >:Zwei cafe und zwei vollkorngipfeli,
 .:bitte
 ._WAITRESS 
 .((in a thick swiss accent)    
 .:Ist das alles?
-._SHIMA
+._SHIRIN
 .:Was?
 ._WAITRESS
 .:Is that all?
-._SHIMA
+._SHIRIN
 .:oh, ja ja dankeschoen
->.The waitress nods and walks away to pick up Shima's order.
-..Shima turns to Felipe re-starts the conversation.
-._SHIMA
+>.The waitress nods and walks away to pick up Shirin's order.
+..Shirin turns to Luis re-starts the conversation.
+._SHIRIN
 >:"Ist das alles?" [Trying to imitate
 >:the waitress' accent] It's hard to
 .:understand their accent
-._FELIPE
+._LUIS
 .:What?
-._SHIMA
+._SHIRIN
 >:It's "ist das alles" in
 >:Hochdeutsch, but they say "ist das
 .:alles" [swiss pronnunciation] here.
-._FELIPE
+._LUIS
 >:Oh really? And can the German
 .:understand that?
-._SHIMA
+._SHIRIN
 .:I don't know, I don't think so.
 .\INT - LONDON - NIGHT CLUB - CONT FIRST NIGHT
-._SHIMA
+._SHIRIN
 .:I'm Swiss
-._FELIPE
+._LUIS
 .:So you speak German, right?
-._SHIMA
+._SHIRIN
 .:No, I'm from the French part
-._FELIPE
+._LUIS
 >:Oh yeah, you have that three
 .:languages thing.
 .\INT - ZURICH - CONT PREVIOUS CAFE SCENE
 >.The waitress interrupts the conversation by placing a coffee
->.and a croissant in front of each one of both. Felipe looks
-..at his plate and grabs the coffee cup.
-._FELIPE
+>.and a croissant in front of each one of both. Luis looks at
+..his plate and grabs the coffee cup.
+._LUIS
 .:En guete
-._SHIMA
+._SHIRIN
 .:Bon appétit
 ..They start drinking coffee and eating a croissant.
 ..
