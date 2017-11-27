@@ -1,0 +1,381 @@
+﻿#Version 3
+#Begin-Auto-Completion 
+AutoCompletion/Scene/Enabled:True
+AutoCompletion/Scene/Items:0
+AutoCompletion/Character/Enabled:True
+AutoCompletion/Character/Items:0
+AutoCompletion/Transition/Enabled:True
+AutoCompletion/Transition/Items:12
+AutoCompletion/Transition/Items/1:BACK TO:
+AutoCompletion/Transition/Items/2:CROSSFADE:
+AutoCompletion/Transition/Items/3:CUT TO:
+AutoCompletion/Transition/Items/4:DISSOLVE TO:
+AutoCompletion/Transition/Items/5:FADE IN:
+AutoCompletion/Transition/Items/6:FADE OUT
+AutoCompletion/Transition/Items/7:FADE TO BLACK
+AutoCompletion/Transition/Items/8:JUMP CUT TO:
+AutoCompletion/Transition/Items/9:MATCH CUT TO:
+AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
+AutoCompletion/Transition/Items/11:SMASH CUT TO:
+AutoCompletion/Transition/Items/12:TIME CUT:
+#End-Auto-Completion 
+#Begin-Config 
+FontSize:12
+Margin/Bottom:25.40
+Margin/Left:38.10
+Margin/Right:25.40
+Margin/Top:12.70
+Paper/Height:297.00
+Paper/Width:210.00
+PageBreakActionLines:2
+PageBreakDialogueLines:2
+SceneContinueds:False
+SceneContinuedIndent:45
+ShowSceneNumbers:False
+IncludeTOC:True
+ShowTOC:True
+OpenOnCurrentPage:True
+RemoveNotes:False
+OutlineNotes:True
+ShowMargins:False
+ShowLineNumbers:False
+Cursor/Line:182
+Cursor/Column:13
+String/MoreDialogue:(MORE)
+String/ContinuedPageEnd:(CONTINUED)
+String/ContinuedPageStart:CONTINUED:
+String/DialogueContinued: (cont'd)
+Element/Scene/BeforeSpacing:10
+Element/Scene/IntraSpacing:0
+Element/Scene/Indent:0
+Element/Scene/Width:60
+Element/Scene/Screen/AllCaps:True
+Element/Scene/Screen/Bold:True
+Element/Scene/Screen/Italic:False
+Element/Scene/Screen/Underlined:False
+Element/Scene/Export/AllCaps:True
+Element/Scene/Export/Bold:False
+Element/Scene/Export/Italic:False
+Element/Scene/Export/Underlined:False
+Element/Action/BeforeSpacing:10
+Element/Action/IntraSpacing:0
+Element/Action/Indent:0
+Element/Action/Width:60
+Element/Action/Screen/AllCaps:False
+Element/Action/Screen/Bold:False
+Element/Action/Screen/Italic:False
+Element/Action/Screen/Underlined:False
+Element/Action/Export/AllCaps:False
+Element/Action/Export/Bold:False
+Element/Action/Export/Italic:False
+Element/Action/Export/Underlined:False
+Element/Character/BeforeSpacing:10
+Element/Character/IntraSpacing:0
+Element/Character/Indent:22
+Element/Character/Width:38
+Element/Character/Screen/AllCaps:True
+Element/Character/Screen/Bold:False
+Element/Character/Screen/Italic:False
+Element/Character/Screen/Underlined:False
+Element/Character/Export/AllCaps:True
+Element/Character/Export/Bold:False
+Element/Character/Export/Italic:False
+Element/Character/Export/Underlined:False
+Element/Dialogue/BeforeSpacing:0
+Element/Dialogue/IntraSpacing:0
+Element/Dialogue/Indent:10
+Element/Dialogue/Width:35
+Element/Dialogue/Screen/AllCaps:False
+Element/Dialogue/Screen/Bold:False
+Element/Dialogue/Screen/Italic:False
+Element/Dialogue/Screen/Underlined:False
+Element/Dialogue/Export/AllCaps:False
+Element/Dialogue/Export/Bold:False
+Element/Dialogue/Export/Italic:False
+Element/Dialogue/Export/Underlined:False
+Element/Parenthetical/BeforeSpacing:0
+Element/Parenthetical/IntraSpacing:0
+Element/Parenthetical/Indent:16
+Element/Parenthetical/Width:25
+Element/Parenthetical/Screen/AllCaps:False
+Element/Parenthetical/Screen/Bold:False
+Element/Parenthetical/Screen/Italic:False
+Element/Parenthetical/Screen/Underlined:False
+Element/Parenthetical/Export/AllCaps:False
+Element/Parenthetical/Export/Bold:False
+Element/Parenthetical/Export/Italic:False
+Element/Parenthetical/Export/Underlined:False
+Element/Transition/BeforeSpacing:10
+Element/Transition/IntraSpacing:0
+Element/Transition/Indent:45
+Element/Transition/Width:20
+Element/Transition/Screen/AllCaps:True
+Element/Transition/Screen/Bold:False
+Element/Transition/Screen/Italic:False
+Element/Transition/Screen/Underlined:False
+Element/Transition/Export/AllCaps:True
+Element/Transition/Export/Bold:False
+Element/Transition/Export/Italic:False
+Element/Transition/Export/Underlined:False
+Element/Shot/BeforeSpacing:10
+Element/Shot/IntraSpacing:0
+Element/Shot/Indent:0
+Element/Shot/Width:60
+Element/Shot/Screen/AllCaps:True
+Element/Shot/Screen/Bold:False
+Element/Shot/Screen/Italic:False
+Element/Shot/Screen/Underlined:False
+Element/Shot/Export/AllCaps:True
+Element/Shot/Export/Bold:False
+Element/Shot/Export/Italic:False
+Element/Shot/Export/Underlined:False
+Element/Note/BeforeSpacing:10
+Element/Note/IntraSpacing:0
+Element/Note/Indent:5
+Element/Note/Width:55
+Element/Note/Screen/AllCaps:False
+Element/Note/Screen/Bold:False
+Element/Note/Screen/Italic:True
+Element/Note/Screen/Underlined:False
+Element/Note/Export/AllCaps:False
+Element/Note/Export/Bold:False
+Element/Note/Export/Italic:True
+Element/Note/Export/Underlined:False
+Element/Act break/BeforeSpacing:10
+Element/Act break/IntraSpacing:0
+Element/Act break/Indent:25
+Element/Act break/Width:10
+Element/Act break/Screen/AllCaps:True
+Element/Act break/Screen/Bold:True
+Element/Act break/Screen/Italic:False
+Element/Act break/Screen/Underlined:True
+Element/Act break/Export/AllCaps:True
+Element/Act break/Export/Bold:False
+Element/Act break/Export/Italic:False
+Element/Act break/Export/Underlined:True
+Font/Bold-Italic/Name:
+Font/Bold-Italic/Filename:
+Font/Bold/Name:
+Font/Bold/Filename:
+Font/Italic/Name:
+Font/Italic/Filename:
+Font/Normal/Name:
+Font/Normal/Filename:
+#End-Config 
+#Begin-Locations 
+Locations:0
+#End-Locations 
+#Begin-Spell-Checker-Dict 
+Words:0
+#End-Spell-Checker-Dict 
+#Title-String 0.000000,105.000000,24,cb,Helvetica,,TAROF
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nFelipe Tonon
+#Title-String 15.000000,248.460000,12,,Courier,,
+#Header-String 1,0,r,,${PAGE}.
+#Header-Empty-Lines 1
+#Start-Script 
+.\INT - LONDON - NIGHT CLUB
+>.2 young female friends at a nightclub. Aslim - Turkish,
+>.short, slim, artsy - and Shima - beautiful Arabic look, long
+..legs, casual outfit. Shima is elegant and shy.
+._ASLIM
+.:Let's go for a smoke
+._SHIMA
+.:What?
+._ASLIM
+.:Let's go for a smoke!
+..They both walk out of the door to the smoking area.
+.\EXT - NIGHT CLUB'S SMOKING AREA
+>.Two young guys - Felipe and Marcelo - already smoking nearby
+>.see them approaching. Speaking something in Portuguese, one
+>.guy encourages the other to go talk to the girls. He resists
+>.and the friend encourages him again. He gives in and walks
+..towards the girls.
+._FELIPE
+>:Hey, I was talking to my friend
+>:over there about this and I wanted
+>:your opinion. Who do you think lies
+.:the most? Man or women?
+.\INT - ZURICH - LIVING ROOM
+>.Shima is in front of the TV, sitting on the couch under a
+>.blanket. She has her feet up on the couch and rubs her own
+>.legs to try to warm herself up. Felipe comes into scene
+..holding two glasses of red wine.
+._FELIPE
+>:Babes, do you remember what I first
+.:said to you?
+>.Shima tries to think about it while Felipe sits down on the
+..couch, under the blanket next to her.
+._SHIMA
+.:No, I don't think so...
+>.He gives one of the glasses to her and wraps an arm around
+..her shoulder.
+._FELIPE
+.:It was a line from a book I read
+._SHIMA
+.:A book?
+._FELIPE
+.:Yeah, about picking up women
+._SHIMA
+>:So you used that line on other
+.:girls too?
+..Felipe smiles embarrassed.
+._FELIPE
+.:Maybe?
+>.Shima sits up straight, puts down the wine glass on the
+>.coffee table, raises her free hand and pinches Felipe's
+..nipple.
+._SHIMA
+.:O really?! How many?!
+>.In a small pain but laughing, he puts down the wine glass.
+..Shima still holds his nipple between her fingers.
+._FELIPE
+.:Maybe zero. Maybe one thousand.
+._SHIMA
+.((jokingly angry)
+.:One thousand?!
+..She squeezes his nipple harder.
+._FELIPE
+.:Oh yeah? That's how you wanna play?
+>.Felipe holds Shima's hands, stands up from the couch, and
+>.while still holding her hands he gently comes on top of her
+..crossing her arms over her breasts.
+._SHIMA
+.:Hey that's not fair.
+._FELIPE
+.:Not fair? How about this.
+>.With his fingers he tickles the back of her arms making her
+..laugh uncontrollably.
+.\INT - NIGHTCLUB - CONT PREVIOUS NIGHT
+>.Felipe dances with Shima while Marcelo dances with Aslim.
+..Shima leans towards Felipe's ear.
+._SHIMA
+.:Where are you from?
+._FELIPE
+.:Would you like to guess?
+._SHIMA
+.:Poli...
+._FELIPE
+.((interrupting)
+.:Brazilian!
+..Shima doesn't believe him
+._SHIMA
+.:Say something in your language.
+._FELIPE
+.:Why? Do you speak Portuguese?
+._SHIMA
+>:No, but I have Brazilian friends
+.:and I'll know if it's real
+._FELIPE
+.((sarcastically)
+.:Do you want to see my passport too?
+._SHIMA
+.((smiling)
+.:Yes, thank you.
+>.Felipe reaches his back pocket and pulls out an Italian
+>.passport. He opens it on the first page and points to where
+..it says "Place of Birth: Brazil"
+._FELIPE
+.:See?
+._SHIMA
+>:But how come you have an Italian
+.:passport?
+._FELIPE
+.:It's a long story
+.\EXT. ZURICH - STADELHOFFEN PARK - LATE MORNING
+>.It's winter, Felipe and Shima spot each other across the
+>.park. They walk towards each other and exchange a kiss and a
+..warm hug.
+._SHIMA
+>:Thanks for meeting me for breakfast
+.:baby.
+..They hold hands and start walking together across the park.
+._FELIPE
+.:Thanks for awesome company.
+..He looks at what she's wearing
+._FELIPE
+.:Rächte Schuss! Nice outfit
+._SHIMA
+>:Rächte Schuss? Right shot? That
+.:doesn't make any sense.
+>.They continue walking towards the lake. Felipe puts his
+..hands on his jacket's pockets while Shima hugs his arm.
+._FELIPE
+>:My colleague says it's like "gata"
+.:in Portuguese. That means hottie.
+._SHIMA
+>:Yeah, I know. So another nice term
+.:to use referring to women, huh?
+..Felipe smiles.
+._FELIPE
+>:Exactly! Look at us! Propagating
+.:sexism.
+..They enter a café
+.\INT - CAFE - CONT.
+._SHIMA
+>:Are you trying to learn Swiss
+.:German?
+._FELIPE
+.:Nah, just some funny words.
+._SHIMA
+.:Not sure those are worth it.
+..They sit at a table
+._FELIPE
+>:Oh right, I forgot that you kids
+>:from Lausanne don't like Swiss
+.:German
+._SHIMA
+>:No, it's not that. It's just that
+>:normal Deutsch is already hard
+.:enough.
+>.Felipe is about to reply but a waitress approaches the
+..table. Shima turns to the waitress to order
+._SHIMA
+>:Zwei cafe und zwei vollkorngipfeli,
+.:bitte
+._WAITRESS 
+.((in a thick swiss accent)    
+.:Ist das alles?
+._SHIMA
+.:Was?
+._WAITRESS
+.:Is that all?
+._SHIMA
+.:oh, ja ja dankeschoen
+>.The waitress nods and walks away to pick up Shima's order.
+..Shima turns to Felipe re-starts the conversation.
+._SHIMA
+>:"Ist das alles?" [Trying to imitate
+>:the waitress' accent] It's hard to
+.:understand their accent
+._FELIPE
+.:What?
+._SHIMA
+>:It's "ist das alles" in
+>:Hochdeutsch, but they say "ist das
+.:alles" [swiss pronnunciation] here.
+._FELIPE
+>:Oh really? And can the German
+.:understand that?
+._SHIMA
+.:I don't know, I don't think so.
+.\INT - LONDON - NIGHT CLUB - CONT FIRST NIGHT
+._SHIMA
+.:I'm Swiss
+._FELIPE
+.:So you speak German, right?
+._SHIMA
+.:No, I'm from the French part
+._FELIPE
+>:Oh yeah, you have that three
+.:languages thing.
+.\INT - ZURICH - CONT PREVIOUS CAFE SCENE
+>.The waitress interrupts the conversation by placing a coffee
+>.and a croissant in front of each one of both. Felipe looks
+..at his plate and grabs the coffee cup.
+._FELIPE
+.:En guete
+._SHIMA
+.:Bon appétit
+..They start drinking coffee and eating a croissant.
+..
