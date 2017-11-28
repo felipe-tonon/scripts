@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:16
-Cursor/Column:5
+Cursor/Line:28
+Cursor/Column:26
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -184,19 +184,19 @@ Words:0
 ._ASLIM
 .:What?
 ._SHIRIN
-.((gesturing a cigarette)
+.((gesturing)
 .:Smoke!
 ._ASLIM
-.:Yeah! Let's go
+.:Yeah! Let's go!
 >.Aslim takes Shirin by the hand and they both walk out of the
 >.dancing area through a door leading to the outside smoking
 ..area.
 .\EXT - NIGHT CLUB'S SMOKING AREA
->.Two young guys - Luis and Marcelo - already smoking nearby
->.see them approaching. Speaking something in Portuguese, one
->.guy encourages the other to go talk to the girls. He resists
->.and the friend encourages him again. He gives in and walks
-..towards the girls.
+>.Two young guys - Luis and Marcelo - are already smoking
+>.nearby and see the two girls approaching. Speaking something
+>.in Portuguese, one guy encourages the other to go talk to
+>.the girls. He resists but the friend insists. Luis gives in
+..and walks towards the girls.
 ._LUIS
 >:Hey, I was talking to my friend
 >:over there about this and I wanted
